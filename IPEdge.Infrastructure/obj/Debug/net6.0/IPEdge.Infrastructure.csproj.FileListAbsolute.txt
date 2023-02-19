@@ -1,0 +1,17 @@
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/bin/Debug/net6.0/IPEdge.Infrastructure.deps.json
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/bin/Debug/net6.0/IPEdge.Infrastructure.runtimeconfig.json
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/bin/Debug/net6.0/IPEdge.Infrastructure.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/bin/Debug/net6.0/IPEdge.Infrastructure.pdb
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/bin/Debug/net6.0/IPEdge.Core.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/bin/Debug/net6.0/IPEdge.Core.pdb
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.csproj.AssemblyReference.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.AssemblyInfoInputs.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.AssemblyInfo.cs
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.csproj.CopyComplete
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/refint/IPEdge.Infrastructure.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.pdb
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/IPEdge.Infrastructure.genruntimeconfig.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Infrastructure/obj/Debug/net6.0/ref/IPEdge.Infrastructure.dll

@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{F817DC8F-950C-491D-93FE-45A7C8953F50}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IPEdge.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.IPEdge.Core FirstBuild="True" />
+</Properties>

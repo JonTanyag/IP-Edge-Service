@@ -1,0 +1,12 @@
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/bin/Debug/net6.0/IPEdge.Core.deps.json
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/bin/Debug/net6.0/IPEdge.Core.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/bin/Debug/net6.0/IPEdge.Core.pdb
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.csproj.AssemblyReference.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.AssemblyInfoInputs.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.AssemblyInfo.cs
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.csproj.CoreCompileInputs.cache
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/refint/IPEdge.Core.dll
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/IPEdge.Core.pdb
+/Users/jon/Projects/IPEdge/IPEdge/IPEdge.Core/obj/Debug/net6.0/ref/IPEdge.Core.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9wbGcmLd8RFIvsaPZnOmSzqB03joc9RHoW/9uNsN17I=",
+  "Source": "IPEdge.Api",
+  "BasePath": "_content/IPEdge.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
