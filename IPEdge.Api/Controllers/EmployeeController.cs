@@ -34,6 +34,16 @@ namespace IPEdge.Api.Controllers
             return BadRequest("No record/s found.");
         }
 
+        [HttpGet("search")]
+        public async Task<IActionResult> Search([FromQuery]string query)
+        {
+            var result = await _mediatr.Send(new SearchEmployeeQuery(query));
+            if (result != null)
+                return Ok(result);
+
+            return BadRequest("No record/s found.");
+        }
+
         // GET api/values/5
         [HttpGet("{id}")]
         public string Get(int id)

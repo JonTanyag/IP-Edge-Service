@@ -32,6 +32,7 @@ builder.Services.AddMediatR(typeof(AddEmployeeCommand).GetTypeInfo().Assembly);
 builder.Services.AddMediatR(typeof(UpdateEmployeeCommand).GetTypeInfo().Assembly);
 builder.Services.AddMediatR(typeof(DeleteEmployeeCommand).GetTypeInfo().Assembly);
 builder.Services.AddMediatR(typeof(GetEmployeesQuery).GetTypeInfo().Assembly);
+builder.Services.AddMediatR(typeof(SearchEmployeeQuery).GetTypeInfo().Assembly);
 builder.Services.AddMediatR(typeof(GetRolesQuery).GetTypeInfo().Assembly);
 
 builder.Services.AddControllers();
@@ -65,6 +66,14 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    var context = services.GetRequiredService<IPEdgeDBContext>();
+    context.Database.Migrate();
 }
 
 app.UseHttpsRedirection();
