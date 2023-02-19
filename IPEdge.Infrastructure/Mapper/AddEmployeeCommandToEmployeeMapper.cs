@@ -14,11 +14,8 @@ namespace IPEdge.Infrastructure.Mapper
 		{
 			return new Employee
 			{
-				Id = source.Id,
-				EmployeeNumber = source.EmployeeNumber,
 				FirstName = source.FirstName,
 				LastName = source.LastName,
-				DateJoined = source.DateJoined,
 				Extension = source.Extension,
 				RoleID = source.RoleID
 			};
