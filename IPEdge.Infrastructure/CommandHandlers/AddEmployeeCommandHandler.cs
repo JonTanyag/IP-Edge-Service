@@ -20,6 +20,23 @@ namespace IPEdge.Infrastructure.CommandHandlers
         public async Task<Unit> Handle(AddEmployeeCommand request, CancellationToken cancellationToken)
         {
             var command = _mapper.Map(request);
+            var lastRecord = await _employeeService.GetEmployees(1,int.MaxValue);
+
+            if (lastRecord != null)
+            {
+                command.Id = lastRecord.LastOrDefault().Id + 1;
+                command.EmployeeNumber = lastRecord.LastOrDefault().EmployeeNumber + 1;
+            }
+            else
+            {
+                command.Id = 1;
+                command.EmployeeNumber = 0001;
+            }
+
+            command.DateJoined = DateTime.Now;
+            
+
+
             _employeeService.AddEmployee(command);
 
             return Unit.Value;
