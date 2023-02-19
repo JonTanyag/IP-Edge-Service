@@ -29,6 +29,7 @@ namespace IPEdge.Infrastructure.Service
         {
             var entity = _entities.FirstOrDefault(x => x.Id == id);
             _entities.Remove(entity);
+            _context.SaveChanges();
         }
 
         public async Task<List<T>> GetAll(int page = 1, int pageSize = int.MaxValue)
